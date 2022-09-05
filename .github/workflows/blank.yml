@@ -2,7 +2,7 @@
 
 name: CI
 
-# Change sare making to verify
+# Change sare making to verify Git Source Tree changes
 
 # Controls when the workflow will run
 on:
